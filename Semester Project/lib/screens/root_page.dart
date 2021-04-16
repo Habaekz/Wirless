@@ -8,7 +8,6 @@ import '../providers/home_provider.dart';
 import 'home_page.dart';
 import 'summery.dart';
 import 'loading_screen.dart';
-import 'credit_screen.dart';
 
 //widgets
 import '../widgets/navigation_bar.dart';
